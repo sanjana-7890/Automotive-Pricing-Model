@@ -7,8 +7,8 @@ They have contracted an automobile consulting company to understand the factors 
 
 The company wants to know the following things:
 
-Which variables are significant in predicting the price of a car?
-How well do those variables describe the price of a car?
+   • Which variables are significant in predicting the price of a car?
+   • How well do those variables describe the price of a car?
 Based on various market surveys, the consulting firm has gathered a large data set of different types of cars across the American market. 
 
  
